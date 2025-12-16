@@ -1,4 +1,4 @@
-Project Description: X and O Game (Tic-Tac-Toe) with AI
+*Project Description: X and O Game (Tic-Tac-Toe) with AI*
 
 The X and O (Tic-Tac-Toe) Game with Artificial Intelligence is a Python-based project that demonstrates how intelligent decision-making can be applied to a classic turn-based game. The project allows a human player to play against an AI opponent in a simple and interactive environment, making it both educational and engaging.
 
